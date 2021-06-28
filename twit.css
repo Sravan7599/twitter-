@@ -1,5 +1,5 @@
 *{
-    background-color: black;
+    
     margin: 0px;
     border: 50%;
     box-sizing:border-box;
@@ -7,30 +7,42 @@
 }
 .first{
     color:white;
+    font-size:50px;
+    font-family: sans-serif;
+
     
 }
 .second{
     color: white;
+    font-size: 25px;
+    font-family: sans-serif;
 }
 .third{
     color:white;
-    background-color: cadetblue;
-    width: 200px;
-    height: 30px;
-    border-radius: 20px;
+    background-color:dodgerblue;
+    width: 250px;
+    height: 35px;
+    border-radius: 25px;
+    border: 1px;
 }
 .fourth{
     color:mediumblue;
-    width: 200px;
-    height: 30px;
-    border-color:2px solid mediumblue;
-    border-radius: 20px;
+    width: 250px;
+    height: 35px;
+    border:2px solid mediumblue;
+    border-radius: 25px;
+    background-color: black;
 }
 .fifth{
     padding: 30px;
     float: right;
-    width: 450px;
-    height: 450px;
-    margin-top: 50px;
+    width: 50%;
+    height: 600px;
+    background-color: black;
 
+}
+.twi3{
+    color:grey;
+    font-size:small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
